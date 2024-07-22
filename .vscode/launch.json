@@ -5,7 +5,7 @@
       "type": "extendscript-debug",
       "request": "launch",
       "name": "Launch ExtendScript",
-      "program": "${workspaceFolder}/test.jsx", // Atualize este caminho com o caminho do seu script
+      "script": "${workspaceFolder}/test.jsx", // Atualize este caminho com o caminho do seu script
       "stopOnEntry": true
     }
   ]
